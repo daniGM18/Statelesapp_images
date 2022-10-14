@@ -26,14 +26,22 @@
    
    ![image](https://user-images.githubusercontent.com/100882800/195769738-6730be5e-cc0c-466b-805d-df3c6eff6394.png)
 
+   Flutter  (version 1.2)
+   
+   ![image](https://user-images.githubusercontent.com/100882800/195770572-cd213960-1434-4de8-8888-865a315f4c7c.png)
+
+GitBash  (version 2.23.0)
+
+![image](https://user-images.githubusercontent.com/100882800/195770845-653566b1-6a42-494a-89dd-836e95435e10.png)
+
 
 
 <h2>Datos del estudiante<h2>
 <br>
 <h4>Nombre:<h4>Daniel Gutierrez Melendez<br><h4><br>
    Universidad:<h4> Universidad Tecnologica de Xictepec de Juarez<br>
-  Matricula:<h4> 190928<br><br>
-   Carrera: Ingenieria en Desarrollo y Gestion de Software
+  Matricula:<h4> 190720<br><br>
+   Carrera: Ingenieria en Desarrollo y Gestion de Software<br>
    M.T.I: Marco Antonio Ramirez Hernandez
    
    
