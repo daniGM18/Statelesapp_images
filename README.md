@@ -4,26 +4,27 @@
 .<h4>
 
 # EVIDENCIAS
-<img src="https://github.com/admin27092001/Statelesapp_images/blob/master/assets/captura 1.png" width="50%"/></p>
-<img src="https://github.com/admin27092001/Statelesapp_images/blob/master/assets/captura movil.png" width="50%"/></p>
 
-<h2>Herramientas ulizadas<h2>
-  <h4>Visual Studio Code :  VS Code (version 1.71.0)
- Editor de codigo
-    <br>
-    Android Studio: Android Studio (version 2021.3)
- <br>
-    Framework:Flutter (Channel stable, 3.3.2, on Linux Mint 21 5.15.0-41-generic, locale
-    es_ES.UTF-8)
-    <br>
-    Lenguaje de programacion: C#
-    <br><br>
-    Herramientas de hadware<br>
-    PC thinkpad Lenovo i7 Ram 8G
-    <br>
-    Telefono: Android Motorola One Vision
-    
-    <h4>
+![image](https://user-images.githubusercontent.com/100882800/195767394-3a991c63-ece7-4336-80d5-902591ef23d5.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767422-6db41a8e-7bde-4c70-8ee1-912fb5e2cf3a.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767444-9d4e815a-8ca2-4da6-b36d-e82cf419dd1e.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767471-01d41fd2-78dc-4b9a-861e-5b493ae41920.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767496-9f8061f0-ebf4-4717-a14d-04e41ae08081.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767506-25c788b6-19bc-4400-b907-f36a29f6d634.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767520-5aa5caba-663c-477c-92a5-875be4f072b0.png)
+
+![image](https://user-images.githubusercontent.com/100882800/195767538-1930b9c2-02be-4b24-8268-c7d94191f636.png)
+
+
+
+<h1>Herramientas ulizadas<h1>
+
 
 <h2>Datos del estudiante<h2>
 <br>
