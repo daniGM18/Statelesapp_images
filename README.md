@@ -1,6 +1,6 @@
-# PROYECTO Stateless_Widget_Images (button press)
+# StatelessApp_Button
 
-<h4>El objetivo de esta  practica es crear una aplicacion Stateles widget la cual contenga un widget para visualizar images, un label de texto y un botón, el botón tiene como finalidad actualizar el texto y la imagen cada ves que sea presionado, esto mediante el recorrido de un arreglo, pasar que el mensaje y la foto vayan cambiando, para ello sera necesario el uso de recursos e imágenes, ademas se esto se le añade la edecion del appBar con los logos de la carrera y quitar el debug que trae por defecto una app flutter, posteriormente esta app se debe de convertir en apk y visualizar en iun teléfono Android.
+<h4>El objetivo de esta practica es para que el alumno desarrolle nuevas habilidades y retos propuestos por el docente, asi mismo esto le podra permitir ser mas analitico y sobre todo desarrollar mas haya de su logica, otro de los puntos muy importantes de los cuales no debemos olvidarnos es sobre el ir documentando cada una de las lineas de codigo que sientamos que se nos hacen muy dificiles de comprender con la finalidad de que cuando lo vuelvamos a ver, ya tengamos una idea mas clara de lo que nos dice cada una de las lineas de codigo, esta practica como tal consta de colocar un boton a la aplicacion el cual funcionara con una secuencia de imagenes mismas propuestas por el alumno, por otra parte mas haya de la actvividad habia que cambiar los colores de lo que es el fondo y el boton con la finalidad de que se noten cada uno de los cambios realizados, de igual manera como reto se le puso una imagen de la UTXJ como tipo icono y bueno referente a esta practica no me queda mas que mencionar.
 .<h4>
 
 # EVIDENCIAS
@@ -20,14 +20,20 @@
 ![image](https://user-images.githubusercontent.com/100882800/195768331-af4257da-9cb6-49e6-ae3c-4d5ae430ae1f.png)
 
 
-   
-
-
+  
 <h1>Herramientas ulizadas<h1>
+   Visual Studio  (version 1.71)
+   
+   ![image](https://user-images.githubusercontent.com/100882800/195769738-6730be5e-cc0c-466b-805d-df3c6eff6394.png)
+
 
 
 <h2>Datos del estudiante<h2>
 <br>
-<h4>Nombre:<h4> Adolfo Melendez Rodriguez<br><h4><br>
+<h4>Nombre:<h4>Daniel Gutierrez Melendez<br><h4><br>
    Universidad:<h4> Universidad Tecnologica de Xictepec de Juarez<br>
-  Matricula:<h4> 190928<br>
+  Matricula:<h4> 190928<br><br>
+   Carrera: Ingenieria en Desarrollo y Gestion de Software
+   M.T.I: Marco Antonio Ramirez Hernandez
+   
+   
