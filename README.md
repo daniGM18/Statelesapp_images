@@ -5,7 +5,7 @@
 
 # EVIDENCIAS
 
-<h1>![image](https://user-images.githubusercontent.com/100882800/195767394-3a991c63-ece7-4336-80d5-902591ef23d5.png)<h1>
+![image](https://user-images.githubusercontent.com/100882800/195767394-3a991c63-ece7-4336-80d5-902591ef23d5.png)
 
 ![image](https://user-images.githubusercontent.com/100882800/195768144-29ef5d74-6993-43d9-8dfe-6af889d88e2f.png)
 
